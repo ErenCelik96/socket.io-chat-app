@@ -1,10 +1,10 @@
 # SOCKET.IO - CHAT-APP
 
 # Client
-TailwindCSS - Context - Socket.io
+TailwindCSS - Context - Socket.io <br />
 start: npm run start
 # Server
-Node.js - Socket.io
+Node.js - Socket.io <br />
 start: npm start
 
 
